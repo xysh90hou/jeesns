@@ -1,4 +1,6 @@
 # JEESNS
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxysh90hou%2Fjeesns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxysh90hou%2Fjeesns?ref=badge_shield)
+
 
 ## v2.0.0目前为beta版本，正在持续开发中，可能会存在比较多的问题，或者会有大的改动，请不要正式使用，如需正式使用，请使用v1.4.2版本[https://gitee.com/zchuanzhao/jeesns/releases/v1.4.2](https://gitee.com/zchuanzhao/jeesns/releases/v1.4.2)
 
@@ -116,3 +118,7 @@ github：[https://github.com/zchuanzhao/jeesns](https://github.com/zchuanzhao/je
 技术支持：[http://www.lxinet.cn](http://www.lxinet.cn/)
 
 服务器支持：[http://www.919dns.com](http://www.919dns.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxysh90hou%2Fjeesns.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxysh90hou%2Fjeesns?ref=badge_large)
